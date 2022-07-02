@@ -4,6 +4,10 @@
 
 this project is part of the FWD-Udacity Advanced Full-Stack Web Development Nanodegree Program . The code was given as a starter project and the task was to employ and adapt the code to get it working and hosted on AWS.
 
+## Link of the front-end on S3 Bucket
+
+- http://udagramss3.s3-website-us-east-1.amazonaws.com/home
+
 ### Installation
 
 Provision the necessary AWS services needed for running the application:
@@ -31,28 +35,6 @@ Unit tests are using the Jasmine Framework.
 ### End to End Tests:
 
 The e2e tests are using Protractor and Jasmine.
-
-### Application Dependencies
-
-```
-- Node v16.15.0 (LTS) 
-
-- npm 8.5.5 
-
-- Angular CLI: 8.3.29
-
-- Angular: 8.2.14
-
-- AWS CLI v2
-
-- A RDS database running Postgres.
-
-- A S3 bucket for hosting uploaded pictures.
-
-```
-### AWS Infrastructure description
-
-![AWS Infrastructure image](./screenshots/AWS.jpeg)
 
 ### Pipeline process
 ```
