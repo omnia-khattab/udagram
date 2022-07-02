@@ -6,7 +6,7 @@ this project is part of the FWD-Udacity Advanced Full-Stack Web Development Nano
 
 ## Link of the front-end on S3 Bucket
 
-- http://udagramss3.s3-website-us-east-1.amazonaws.com/home
+- http://udagramss3.s3-website-us-east-1.amazonaws.com
 
 ### Installation
 
