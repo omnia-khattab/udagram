@@ -19,3 +19,5 @@
 - deploy
 
 ```
+
+![pipline process image](./images/piplineprocess.jpeg)
