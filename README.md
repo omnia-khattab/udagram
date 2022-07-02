@@ -52,7 +52,7 @@ The e2e tests are using Protractor and Jasmine.
 ```
 ### AWS Infrastructure description
 
-![AWS Infrastructure image](/screenshots/AWS (2019) horizontal framework.jpeg)
+![AWS Infrastructure image](screenshots/AWS (2019) horizontal framework.jpeg)
 
 ### Pipeline process
 ```
