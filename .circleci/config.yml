@@ -53,8 +53,8 @@ jobs:
       - node/install:
           node-version: '16.15' 
       - eb/setup
-      - aws-cli/setup
-         profile-name: default
+      - aws-cli/setup:
+          profile-name: default
       - checkout
       - run:
           name: Deploy App
